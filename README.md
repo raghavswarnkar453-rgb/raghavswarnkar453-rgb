@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently learning web development and DSA.
 <!--
 **raghavswarnkar453-rgb/raghavswarnkar453-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
